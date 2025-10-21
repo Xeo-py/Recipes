@@ -1,0 +1,16 @@
+html{
+    background-color:rgb(157, 220, 235);
+}
+.title{
+    color:black;
+    border-color:darkslategray;
+    padding:20px;
+    padding-left:50px;
+    background-color:rgb(115, 115, 206);
+    width:200px;
+    margin:16px auto;
+    border:10px solid rgb(49, 2, 94);
+}
+.dot{
+    padding:20px;
+}
